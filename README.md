@@ -4,17 +4,13 @@ It can also print a continuous list of connection points, so anyone in real life
 
 ## Some Examples
 
-#### Stormtrooper helmet
+#### Stormtrooper helmet, n = 151 points, ~2000 strings
 ![Stormtrooper](https://github.com/DhruvAhlawat/String_Art/assets/96519848/6a8ab2cd-6713-4045-831b-dfd979a7cf7b)
 
-This is a stormtrooper helmet, done using n = 151 points on the circle and around 3000 strings between them. (But it can be done in much lesser than 3000 strings as well.)
-
-#### Lamborghini Aventador
+#### Lamborghini Aventador with open doors, n = 151 points
 ![Aventador](https://github.com/DhruvAhlawat/String_Art/assets/96519848/987330f9-8f9e-4c45-b857-2778abfb9a50)
 
-Aventador car with open doors, n = 151 points.
 
-#### Anime girl (Nobara from Jujutsu Kaisen)
+#### Anime character (Nobara from Jujutsu Kaisen), n = 199 points, ~4000 strings
 ![Nobara600x](https://github.com/DhruvAhlawat/String_Art/assets/96519848/16464e53-717d-41c8-b48c-8033fb373ba1)
 
-n = 199 points, around 4000 strings

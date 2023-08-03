@@ -14,3 +14,7 @@ This is a stormtrooper helmet, done using n = 151 points on the circle and aroun
 
 Aventador car with open doors, n = 151 points.
 
+#### Anime girl (Nobara from Jujutsu Kaisen)
+![Nobara600x](https://github.com/DhruvAhlawat/String_Art/assets/96519848/16464e53-717d-41c8-b48c-8033fb373ba1)
+
+n = 199 points, around 4000 strings
